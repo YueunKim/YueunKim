@@ -19,14 +19,14 @@
 
   <br/>
   
-  ## 📑 Blog
+  ## ✏ Blog
   
-  <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://yuniverse-b.tistory.com">
+  <a href="[url](https://yuniverse-b.tistory.com)" ><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
   
   <br/>
   <br/> 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=yueunkim&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=yueunkim&show_icons=true&theme=dracula">
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F75D59&height=100&section=footer)
   
