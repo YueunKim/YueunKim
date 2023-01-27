@@ -21,7 +21,7 @@
   
   ## ✏ Blog
   
-  <a href="[url](https://yuniverse-b.tistory.com)" ><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
+  <a href="https://yuniverse-b.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://yuniverse-b.tistory.com"></a>
   
   <br/>
   <br/> 
