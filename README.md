@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fbe7a2&height=200&section=header&text=Hi🖐%20I'm%20Yunie&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fbe7a2&height=100&section=header" />
 
   ## 🛠 Skills and Tools
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
