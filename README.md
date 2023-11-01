@@ -27,7 +27,11 @@
   <br/>
   <br/> 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=yueunkim&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=yueunkim&hide=stars&show_icons=true&count_private=true&theme=gruvbox_light">
+
+  <br/> 
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFDE00&title_bg=%23555555&icon=&icon_color=%23000000&title=%F0%9F%96%90&edge_flat=true)](https://hits.seeyoufarm.com)
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=fbe7a2&height=100&section=footer)
   
